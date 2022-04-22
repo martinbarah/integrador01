@@ -1,0 +1,41 @@
+.d-block
+{
+    filter: brightness(60%);
+    
+}
+
+.col2
+{
+    font-weight: bold;
+    
+}
+
+.izquierda
+{
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+.derecha
+{
+   background-color: #434242;
+   margin: 0%;
+   padding: 1%;
+   
+}
+
+.formulario
+{
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+
+}
+
+.footer-main
+{
+  background-color:#434242;
+  
+}
+
